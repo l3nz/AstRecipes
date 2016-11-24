@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Learning Clojure: Transducers how-to
+title:  "Learning Clojure: Transducers how-to"
 date:   2016-11-24
 tags:
  - clojure
@@ -10,6 +10,11 @@ categories: update
 
 
 Transducers are an interesting concept.
+
+See also:
+
+* ....
+* ....
 
 
 
