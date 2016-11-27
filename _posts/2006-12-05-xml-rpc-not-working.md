@@ -3,7 +3,7 @@ layout: post
 title:  XML-RPC not working
 date:   2006-12-05 16:58:40.0
 tags:
- - xmlRpc
+ - xmlrpc
  - xerces
  - QueueMetrics
  - faq

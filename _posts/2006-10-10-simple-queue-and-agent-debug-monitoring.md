@@ -3,12 +3,11 @@ layout: post
 title:  Simple queue and agent debug monitoring
 date:   2006-10-10 13:01:11.0
 tags:
- - queues
+ - queue
  - debug
- - CLI
+ - cli
  - agents
- - #frontpage
-
+ 
 categories: update
 ---
 

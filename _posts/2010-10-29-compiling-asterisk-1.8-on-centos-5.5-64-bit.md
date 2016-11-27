@@ -4,20 +4,18 @@ title:  Compiling Asterisk 1.8 on CentOS 5.5 64-bit
 date:   2010-10-29 16:23:14.0
 tags:
  - x86_64
- - SNMP
- - iCal
- - GTalk
+ - snmp
+ - ical
+ - gtalk
  - dahdi
  - curl
  - compiling
- - CentOS
- - Calendar
+ - centos
+ - calendar
  - Asterisk
  - 64bit
  - 1.8
- - #popular
- - #frontpage
-
+ 
 categories: update
 ---
 
